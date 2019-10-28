@@ -6,7 +6,7 @@ Simple Twitter API connection with php and vuejs
 
 -Made for educational purposes only
 
-# You have to create an app at https://developer.twitter.com/ to get your tokens and fill in the connection.php file
+# You have to create an app at https://developer.twitter.com/ to get your tokens and your user list id and fill in the connection.php file
 
 ## Project setup
 ```
